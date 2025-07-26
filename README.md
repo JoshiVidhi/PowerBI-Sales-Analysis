@@ -19,5 +19,6 @@ A sample sales dataset used for learning and practice purposes.
 
 ### Outcome
 Total sales and profit
+<br>
 Periodically and regional sales trends
 Top-selling products
